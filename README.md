@@ -11,7 +11,7 @@ Generally I expect this to be slower on replay, but we'll see if it's reasonable
 
 Query locators will be supported, but first class locator is actual element image.
 
-We also won't do browser extension as it seems to limited based on my experience doing some changes to SeleniumIDE.
+We also won't do browser extension as it seems too limited based on my experience doing some changes to SeleniumIDE.
 Maybe direct recorder injection via Selenium ( so our app and tested app would be in the same context ), or something like that... concept is not yet in solid, but we at least know what we won't do.
 
 
